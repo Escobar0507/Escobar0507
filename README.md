@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🐉 Hi, I'm Escobar0507
+# 🫡 Hi, I'm Ysmail
 ### Software Engineering Student in China 🇨🇳 | Full-Stack & Game Developer
 
 *Crafting high-performance backend systems, interactive web applications, and immersive game experiences.*
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Escobar0507)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ysmailagayev@gmail.com)
 
 </div>
@@ -24,8 +24,6 @@
 - 🔮 **Goal:** Architectural mastery in scalable microservices, high-throughput backend systems, and interactive media.
 
 ---
-
-### 🧰 Technical Arsenal
 
 #### 🛠 Core Languages & Systems
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
