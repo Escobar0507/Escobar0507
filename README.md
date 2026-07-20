@@ -51,21 +51,6 @@
 
 ---
 
-### 📊 GitHub Command Center
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Escobar0507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escobar0507&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Escobar0507&theme=tokyonight&hide_border=true" width="97%" />
-
-</div>
-
----
-
 <div align="center">
 
 *“Talk is cheap. Show me the code.”*  
