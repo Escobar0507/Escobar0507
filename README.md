@@ -20,7 +20,7 @@
 - 🎓 **International CS / IT Student** studying in China 🇨🇳
 - ⚡ **Core Strengths:** Low-level programming, System Architecture & Full-Stack Web Development
 - 🎮 **Passionate About:** Game Development (C++ Enthusiast) & Cross-Platform Mobile Apps
-- 🚀 **Current Focus:** Building **[ClassMind](https://github.com/Escobar0507/classmind)** (FastAPI Ecosystem) & Exploring Modern Graphics Engines
+- 🚀 **Current Focus:** FastAPI Ecosystem & Exploring Modern Graphics Engines
 - 🔮 **Goal:** Architectural mastery in scalable microservices, high-throughput backend systems, and interactive media.
 
 ---
